@@ -1,17 +1,17 @@
-# 🤖 AI Math Problem Solver (Mathpix + Streamlit App)
+# 🤖 Math AI Tutor (Mathpix + GPT-4 + Streamlit App)
 
-A Streamlit-based educational app that extracts math problems from images using Mathpix OCR and solves them step-by-step with GPT-4.  
-The system also classifies the question topic and suggests similar questions for practice.
+An AI-powered educational app that extracts math problems from images using Mathpix OCR and solves them step-by-step with GPT-4.  
+It also classifies the question topic and suggests similar problems for practice.
 
 ---
 
 ### 🔧 Features
 
-- 🧠 Step-by-step math problem solving using GPT-4  
-- 🖼️ OCR-powered equation extraction from images (via Mathpix)  
-- 🗂️ Automatic topic classification  
-- 🎯 Difficulty tagging and similar question suggestions  
-- 🌐 Clean and interactive user interface built with Streamlit  
+- 🧠 Solves math problems step-by-step using GPT-4  
+- 🖼️ Extracts equations from images with Mathpix OCR  
+- 🗂️ Classifies math topics automatically  
+- 🎯 Tags question difficulty and suggests similar questions  
+- 🌐 Clean and interactive UI built with Streamlit  
 
 ---
 
@@ -28,18 +28,9 @@ The system also classifies the question topic and suggests similar questions for
 
 ### ⚙️ Installation
 
-To install the required dependencies, run the following command in your terminal:
+Clone the repository and install required dependencies:
 
 ```bash
+git clone https://github.com/Erdincuzunlu/math-ai-tutor.git
+cd math-ai-tutor
 pip install -r requirements.txt
-
-```
-
-
-
-
-
-git clone https://github.com/Erdincuzunlu/ai-math-problem-solver-veya-mathpix-streamlit-app.git
-cd ai-math-problem-solver-veya-mathpix-streamlit-app
-pip install -r requirements.txt
-streamlit run app.py
