@@ -7,24 +7,28 @@ The system also classifies the question topic and suggests similar questions for
 
 ### 📌 Features
 
-- 🧠 Step-by-step math problem solving using GPT-4
-- 📸 OCR-powered equation extraction from images (via Mathpix)
-- 🗂️ Automatic topic classification
-- 🎯 Difficulty tagging and similar question suggestions
-- 🌐 Clean and interactive user interface built with Streamlit
+- 🧠 Step-by-step math problem solving using GPT-4  
+- 🖼️ OCR-powered equation extraction from images (via Mathpix)  
+- 📋 Automatic topic classification  
+- 🎯 Difficulty tagging and similar question suggestions  
+- 🌐 Clean and interactive user interface built with Streamlit  
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack
 
-- Python
-- Streamlit
-- Mathpix API
-- OpenAI API (GPT-4)
-- SymPy
-- Pandas / JSON
+- Python  
+- Streamlit  
+- Mathpix API  
+- OpenAI API (GPT-4)  
+- SymPy  
+- Pandas / JSON  
 
 ---
 
-### 📂 Folder Structure (Example)
+### 📦 Installation
 
+To install the required dependencies, run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
