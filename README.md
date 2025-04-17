@@ -11,7 +11,10 @@ It also classifies the question topic and suggests similar problems for practice
 - 🖼️ Extracts equations from images with Mathpix OCR  
 - 🗂️ Classifies math topics automatically  
 - 🎯 Tags question difficulty and suggests similar questions  
-- 🌐 Clean and interactive UI built with Streamlit  
+- 🌐 Clean and interactive UI built with Streamlit
+- 🚧 **Project in Progress**  
+This project is still under development. Core features are being implemented and refined.  
+Stay tuned for updates in the coming days!
 
 ---
 
